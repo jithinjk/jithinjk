@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @jithinjk
-- 👀 I’m interested in Python/Deep Learning/LLMs
-- 🌱 I’m currently learning Deep Learning
+# Jithin James
 
-<!---
-jithinjk/jithinjk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building with AI — mostly vibe-coded, occasionally production-grade.
+
+Interested in on-device LLMs, agentic systems, and shipping things that actually work.
+
+**Now:** Exploring edge AI, RAG pipelines, and what happens when you give LLMs tools.
+
+## Projects
+→ [vibes](https://github.com/jithinjk/vibes) — portfolio of recent builds
+
+## Stack
+Python · TypeScript · React Native · Electron · LangGraph · Ollama
