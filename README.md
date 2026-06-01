@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jithinjk
-- 👀 I’m interested in Python/Golang/Deep Learning/LLMs
+- 👀 I’m interested in Python/Deep Learning/LLMs
 - 🌱 I’m currently learning Deep Learning
 
 <!---
