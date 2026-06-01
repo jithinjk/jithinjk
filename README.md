@@ -10,4 +10,4 @@ Interested in on-device LLMs, agentic systems, and shipping things that actually
 → [vibes](https://github.com/jithinjk/vibes) — portfolio of recent builds
 
 ## Stack
-Python · TypeScript · React Native · Electron · LangGraph · Ollama
+Python · LangGraph · Ollama
